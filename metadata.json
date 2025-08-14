@@ -1,0 +1,6 @@
+{
+  "name": "315-Baraja Virtual",
+  "description": "An AI-powered chatbot to interpret the Spanish card deck, providing insights for individual cards and various reading spreads.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
